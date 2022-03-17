@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ZendeskCoreSDK",
+        "repositoryURL": "https://github.com/zendesk/core_sdk_ios",
+        "state": {
+          "branch": null,
+          "revision": "6add05d17a9cbba32b69863c1df9c3a2149fa138",
+          "version": "2.6.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
